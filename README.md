@@ -16,4 +16,11 @@ Arduino project for a medication reminder with:
 - 16x2 I2C LCD (address 0x20 in Tinkercad, 0x20/0x27/etc. in Wokwi)
 - 4x4 membrane keypad
 - Buzzer + LED + resistor
-- Servo 
+- Servo
+
+## CAD Software
+- Wokwi https://wokwi.com/ 
+- TinkerCAD https://www.tinkercad.com/
+
+## Linked used for support
+- https://www.circuitbasics.com/how-to-set-up-a-keypad-on-an-arduino/ 

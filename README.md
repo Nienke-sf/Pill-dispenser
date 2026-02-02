@@ -24,3 +24,11 @@ Arduino project for a medication reminder with:
 
 ## Linked used for support
 - https://www.circuitbasics.com/how-to-set-up-a-keypad-on-an-arduino/ 
+
+
+
+
+
+
+
+© 2025 Precious N

@@ -4,7 +4,6 @@
 #include <Keypad.h>
 #include <Servo.h>
 
-
 // ============================== LCD
 LiquidCrystal_I2C lcd(0x27, 16, 2);   // Tinkercad I2C LCD address
 
@@ -67,7 +66,6 @@ void setup()
   pinMode(sound, OUTPUT);         // sets the buzzer alarm as output
   //===============================================================================servo
   myservo.attach(12);
-
 }
   
 
@@ -139,7 +137,7 @@ void loop() {
         delay(1000); 
 
         myservo.write(0);              // tell servo to go to position in variable 'pos'
-        delay(1000);                       // waits 15 ms for the servo to reach the position
+        delay(1000);                       // waits 15 ms for the servo to reach the position © 2025 Nienke-sf
         myservo.write(100); 
         delay(1000);
       } 
@@ -147,3 +145,4 @@ void loop() {
     delay(500);
   }
 }
+© 2025 Precious N
